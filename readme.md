@@ -2,8 +2,7 @@
     <h1>Test app</h1>
     <p>Apache License 2.0</p>
     <br>
-    ### Heading
-    Table of Contents
+    <h3>Table of Contents</h3>
     1.<a href="#description">Description</a>
     2.<a href="#install">Installation Instructions</a>
     3.<a href="#usage">Usage</a>
