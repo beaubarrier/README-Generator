@@ -110,9 +110,6 @@ ${licBadges.find((b) => b.name === data.license).badge}
 - [Testing](#testing)
 - [Questions](#questions)
 <br>
-<br>
-<br>
-<br>
 
 Description
 -----------
