@@ -161,7 +161,9 @@ ${data.test}
 Questions
 ---------
 Email Address: <a href="mailto:${data.email}">${data.email}</a>
-GitHub User Name:<a href="https://github.com/${data.github}>${data.github}</a>
+<br>
+GitHub User Name: <a href="https://github.com/${data.github}">${data.github}</a>
+<br>
 <br>
 ${data.questions}
 <br>

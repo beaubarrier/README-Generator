@@ -1,7 +1,7 @@
 
-Test APP
+Test App.
 =============
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br>
 <br>
 
@@ -19,7 +19,7 @@ Test APP
 
 Description
 -----------
-Test test McTest. Test test McTest. Test test McTest.
+Test app is a test app that tests apps testing apps.  Test app is a test app that tests apps testing apps. Test app is a test app that tests apps testing apps.
 <br>
 <br>
 <br>
@@ -28,7 +28,7 @@ Test test McTest. Test test McTest. Test test McTest.
 
 Installation
 ------------
-Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test McTest.
+ Test app is a test app that tests apps testing apps.
 <br>
 <br>
 <br>
@@ -37,7 +37,7 @@ Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test Mc
 
 Usage
 -----
-Test test McTest.Test test McTest.
+ Test app is a test app that tests apps testing apps. Test app is a test app that tests apps testing apps. Test app is a test app that tests apps testing apps. Test app is a test app that tests apps testing apps. Test app is a test app that tests apps testing apps.
 <br>
 <br>
 <br>
@@ -46,7 +46,7 @@ Test test McTest.Test test McTest.
 
 Contribution
 ------------
-Test test McTest.Test test McTest.Test test McTest.Test test McTest.
+ Test app is a test app that tests apps testing apps.
 <br>
 <br>
 <br>
@@ -54,7 +54,7 @@ Test test McTest.Test test McTest.Test test McTest.Test test McTest.
 
 Testing
 -------
-Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test McTest.
+Testing tests will be tested.
 <br>
 <br>
 <br>
@@ -63,7 +63,9 @@ Test test McTest.Test test McTest.Test test McTest.Test test McTest.Test test Mc
 Questions
 ---------
 Email Address: <a href="mailto:beaubarrier@gmail.com">beaubarrier@gmail.com</a>
-GitHub User Name:<a href="https://github.com/beaubarrier>beaubarrier</a>
 <br>
-Test test McTest.Test test McTest.Test test McTest.
+GitHub User Name: <a href="https://github.com/beaubarrier">beaubarrier</a>
+<br>
+<br>
+ Test app is a test app that tests apps testing apps.
 <br>
