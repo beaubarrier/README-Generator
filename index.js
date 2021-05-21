@@ -99,7 +99,7 @@ const writeToFile = (data) =>
     `
 ${data.title}
 =============
-${licBadges.find((l) => l.name === data.license).badge}
+${licBadges.find((b) => b.name === data.license).badge}
 <br>
 <br>
 
@@ -111,34 +111,58 @@ ${licBadges.find((l) => l.name === data.license).badge}
 - [Testing](#testing)
 - [Questions](#questions)
 <br>
+<br>
+<br>
+<br>
 
 Description
 -----------
 ${data.description}
 <br>
+<br>
+<br>
+<br>
+
 
 Installation
 ------------
 ${data.installation}
 <br>
+<br>
+<br>
+<br>
+
 
 Usage
 -----
 ${data.usage}
 <br>
+<br>
+<br>
+<br>
+
 
 Contribution
 ------------
 ${data.contribution}
 <br>
+<br>
+<br>
+<br>
 
 Testing
 -------
-${data.testing}
+${data.test}
+<br>
+<br>
+<br>
 <br>
 
 Questions
 ---------
+Email Address: <a href="mailto:${data.email}">${data.email}</a>
+GitHub User Name:<a href="https://github.com/${data.github}>${data.github}</a>
+<br>
 ${data.questions}
 <br>
 `
