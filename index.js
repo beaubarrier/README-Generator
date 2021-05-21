@@ -101,7 +101,6 @@ ${data.title}
 =============
 ${licBadges.find((b) => b.name === data.license).badge}
 <br>
-<br>
 
 #### Table of Contents
 - [Description](#description)

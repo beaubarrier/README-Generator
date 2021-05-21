@@ -1,8 +1,7 @@
 
-Test App.
+README Generator!
 =============
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-<br>
+[![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 <br>
 
 #### Table of Contents
@@ -19,7 +18,7 @@ Test App.
 
 Description
 -----------
-Test app is a test app that tests apps testing apps.  Test app is a test app that tests apps testing apps. Test app is a test app that tests apps testing apps.
+This app will create a professional README.md file.
 <br>
 <br>
 <br>
@@ -28,7 +27,7 @@ Test app is a test app that tests apps testing apps.  Test app is a test app tha
 
 Installation
 ------------
- Test app is a test app that tests apps testing apps.
+This app requires node and inquirer.
 <br>
 <br>
 <br>
@@ -37,7 +36,7 @@ Installation
 
 Usage
 -----
- Test app is a test app that tests apps testing apps. Test app is a test app that tests apps testing apps. Test app is a test app that tests apps testing apps. Test app is a test app that tests apps testing apps. Test app is a test app that tests apps testing apps.
+It will be used to generate professional README.md files for the user.
 <br>
 <br>
 <br>
@@ -46,7 +45,7 @@ Usage
 
 Contribution
 ------------
- Test app is a test app that tests apps testing apps.
+N/A
 <br>
 <br>
 <br>
@@ -54,7 +53,7 @@ Contribution
 
 Testing
 -------
-Testing tests will be tested.
+N/A
 <br>
 <br>
 <br>
@@ -67,5 +66,5 @@ Email Address: <a href="mailto:beaubarrier@gmail.com">beaubarrier@gmail.com</a>
 GitHub User Name: <a href="https://github.com/beaubarrier">beaubarrier</a>
 <br>
 <br>
- Test app is a test app that tests apps testing apps.
+Please feel free to reach out to me via email, or follow me on GitHub!
 <br>
