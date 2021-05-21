@@ -98,42 +98,51 @@ const questions = () => {
 const writeToFile = (data) =>
 
     `
-    <h1>${data.title}</h1>
-    <p>${data.license}</p>
-    <br>
-    ### Heading
-    Table of Contents
-    1.<a href="#description">Description</a>
-    2.<a href="#install">Installation Instructions</a>
-    3.<a href="#usage">Usage</a>
-    4.<a href="#contribution">Contribution</a>
-    5.<a href="#testing">Testing</a>
-    6.<a href="#questions">Questions</a>
-        1.Email Address
-        2.GitHub User Profile
-        3.Additional Information
-    <br>
-    <h3 id="description">Description</h3>
-    <p>${data.description}</p>
-    <br>
-    <h3 id="install">Installation Instructions</h3>
-    <p>${data.installation} </p>
-    <br>
-    <h3 id="usage">Usage</h3>
-    <p>${data.usage}</p>
-    <br>
-    <h3 id="contribution">Contribution</h3>
-    <p>${data.contribution}</p>
-    <br>
-    <h3 id="testing">Testing</h3>
-    <p>${data.test}</p>
-    <br>
-    <h3 id="questions">Questions.</h3>
-    <p>Email Address: <a href="mailto:${data.email}"> ${data.email} </a></p>
-    <p>GitHub User Name: <a href="www.github.com/${data.github}"> github.com/${data.github}</a></p>
-    ${data.questions}
-    <br>
-    `
+${data.title}
+=============
+${data.license}
+<br>
+<br>
+
+#### Table of Contents
+- [Description](#description)
+- [Installation Instructions](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Testing](#testing)
+- [Questions](#questions)
+<br>
+
+Description
+-----------
+${data.description}
+<br>
+
+Installation
+------------
+${data.installation}
+<br>
+
+Usage
+-----
+${data.usage}
+<br>
+
+Contribution
+------------
+${data.contribution}
+<br>
+
+Testing
+-------
+${data.testing}
+<br>
+
+Questions
+---------
+${data.questions}
+<br>
+`
 
 // TODO: Create a function to initialize app
 function init() {
