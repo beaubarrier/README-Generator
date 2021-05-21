@@ -1,7 +1,7 @@
 
-Test app
+Test Application
 =============
-Apache License 2.0
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 <br>
 <br>
 
@@ -16,22 +16,22 @@ Apache License 2.0
 
 Description
 -----------
-test
+This application doesnt exist.
 <br>
 
 Installation
 ------------
-tes
+You cannot install that which does not exist.
 <br>
 
 Usage
 -----
-test
+You can use it any way you like.
 <br>
 
 Contribution
 ------------
-test
+Think really hard.
 <br>
 
 Testing
@@ -41,5 +41,5 @@ undefined
 
 Questions
 ---------
-test
+Nope, thats it.
 <br>

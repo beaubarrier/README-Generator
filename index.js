@@ -94,13 +94,12 @@ const questions = () => {
 }
 
 // TODO: Create a function to write README file
-// still cant get license badge to show up
 const writeToFile = (data) =>
 
     `
 ${data.title}
 =============
-${data.license}
+${licBadges.find((l) => l.name === data.license).badge}
 <br>
 <br>
 
@@ -155,16 +154,3 @@ function init() {
 
 // Function call to initialize app
 init();
-
-
-
-
-
-
-
-// fs.writeFile(fileName, data, err => {
-//     if (err) {
-//         return console.log(err);
-//     }
-//     console.log("Congrats! Your readme.md file has been created! Don't you feel accomplished?!")
-// });
