@@ -1,10 +1,11 @@
 
-This app will create a professional README.md file. 
+README.md Generator!
 =============
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+<br>
 <br>
 
-#### Table of Contents
+### Table of Contents
 - [Description](#description)
 - [Installation Instructions](#installation)
 - [Usage](#usage)
@@ -15,7 +16,7 @@ This app will create a professional README.md file.
 
 Description
 -----------
-This app requires node and inquirer. 
+This app creates professional quality README.md files.
 <br>
 <br>
 <br>
@@ -24,7 +25,7 @@ This app requires node and inquirer.
 
 Installation
 ------------
-It will be used to generate professional README.md files for the user. 
+This app requires node and inquirer.
 <br>
 <br>
 <br>
@@ -33,7 +34,7 @@ It will be used to generate professional README.md files for the user.
 
 Usage
 -----
-N/A
+Run this app in terminal.
 <br>
 <br>
 <br>
@@ -63,5 +64,5 @@ Email Address: <a href="mailto:beaubarrier@gmail.com">beaubarrier@gmail.com</a>
 GitHub User Name: <a href="https://github.com/beaubarrier">beaubarrier</a>
 <br>
 <br>
- Please feel free to reach out to me via email, or follow me on GitHub! 
+Please feel free to reach out to me with any questions or comments!
 <br>
